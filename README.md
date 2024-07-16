@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MPrathmesh/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Array
+|  |
+| ------- |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MPrathmesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+## Binary Search
+|  |
+| ------- |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MPrathmesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
