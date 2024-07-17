@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPrathmesh/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPrathmesh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MPrathmesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPrathmesh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MPrathmesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
