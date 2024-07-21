@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/MPrathmesh/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/MPrathmesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
