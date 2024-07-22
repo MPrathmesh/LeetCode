@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/MPrathmesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MPrathmesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MPrathmesh/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/MPrathmesh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPrathmesh/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MPrathmesh/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
