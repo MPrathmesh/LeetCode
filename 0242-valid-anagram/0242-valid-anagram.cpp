@@ -1,26 +1,23 @@
 class Solution {
 public:
-    bool isAnagram(string s, string t) 
-    {
-        int freqTable[256] = {0};
-
-        for(int i = 0; i < s.size(); i++)
-        {
-            freqTable[s[i]]++;
+    bool isAnagram(string s, string t) {
+        if(s.length() != t.length()) {
+            return false;
         }
 
-        for(int i = 0; i < t.size(); i++)
-        {
-            freqTable[t[i]]--;
+        vector<int> count(26);
+
+        for(const char c : s) {
+            ++count[c - 'a'];
         }
 
-        for(int i = 0; i < 256; i++)
-        {
-            if(freqTable[i] != 0)
-            {
+        for(const char c : t) {
+            if(count[c - 'a'] == 0) {
                 return false;
             }
+            --count[c - 'a'];
         }
+
         return true;
     }
 };
