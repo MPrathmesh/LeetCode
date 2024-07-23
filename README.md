@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MPrathmesh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/MPrathmesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MPrathmesh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/MPrathmesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
