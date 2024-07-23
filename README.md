@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MPrathmesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MPrathmesh/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MPrathmesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPrathmesh/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/MPrathmesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/MPrathmesh/LeetCode/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
