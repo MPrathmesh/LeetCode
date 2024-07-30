@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MPrathmesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MPrathmesh/LeetCode/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/MPrathmesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MPrathmesh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/MPrathmesh/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/MPrathmesh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
