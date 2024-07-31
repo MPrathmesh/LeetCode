@@ -31,13 +31,41 @@ public:
         return dp[n];
     }
 
+    int solveUsingTabulation(int n) {
+        //STEP 1: Create dp array
+        vector<int> dp(n+1, -1);
+        
+        //STEP 2: analyse base case and fill dp array
+        dp[0] = 0;
+        if(n == 0) return dp[0];
+        dp[1] = 1;
+
+        //STEP 3: Fill the remaining dp array
+        //size = n + 1;
+        //index-> 0 => n
+        //index fill ho chuka hai -> 0 and 1
+        //baccha konsa index = 2 -> n;
+        for(int i = 2; i <= n; i++) {
+            //copy paste the recursive logic
+            //replace recursive calls with dp array
+            //make sure dp array is using looping variable "i"
+           dp[i] = dp[i-1] + dp[i-2]; 
+        }
+
+        //answer return
+        return dp[n]; 
+    }
+
     int fib(int n) {
         // int ans = solveUsingRec(n);
         // return ans;
 
         //Step 1: Create dp array
-        vector<int> dp(n+1, -1); //first paramter size of array and second initilize with -1
-        int ans = solveUsingMem(n, dp);
+        // vector<int> dp(n+1, -1); //first paramter size of array and second initilize with -1
+        // int ans = solveUsingMem(n, dp);
+        // return ans;
+
+        int ans = solveUsingTabulation(n);
         return ans;
     }
 };
