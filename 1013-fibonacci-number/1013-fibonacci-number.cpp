@@ -56,6 +56,25 @@ public:
         return dp[n]; 
     }
 
+    int solveUsingTabulationSpaceOptimization(int n) {
+        int prev = 0;
+        if(n == 0) return 0;
+        int curr = 1;
+        if(n == 1) return 1;
+
+        int ans;
+        for(int i = 2; i <= n; i++) {
+           ans = curr + prev; 
+
+            //prev and curr lo ek step aage mive kana 
+           prev = curr;
+           curr = ans;
+        }
+
+        //answer return
+        return ans; 
+    }
+
     int fib(int n) {
         // int ans = solveUsingRec(n);
         // return ans;
@@ -65,7 +84,9 @@ public:
         // int ans = solveUsingMem(n, dp);
         // return ans;
 
-        int ans = solveUsingTabulation(n);
-        return ans;
+        // int ans = solveUsingTabulation(n);
+        // return ans;
+
+        return solveUsingTabulationSpaceOptimization(n);
     }
 };
