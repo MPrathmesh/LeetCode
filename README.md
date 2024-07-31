@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MPrathmesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/MPrathmesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MPrathmesh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/MPrathmesh/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/MPrathmesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MPrathmesh/LeetCode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/MPrathmesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
 ## Trie
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MPrathmesh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/MPrathmesh/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/MPrathmesh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
 ## Breadth-First Search
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/MPrathmesh/LeetCode/tree/master/1511-count-number-of-teams) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
