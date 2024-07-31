@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0948-sort-an-array](https://github.com/MPrathmesh/LeetCode/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MPrathmesh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPrathmesh/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPrathmesh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MPrathmesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/MPrathmesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MPrathmesh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/MPrathmesh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MPrathmesh/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
