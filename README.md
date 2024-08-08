@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/MPrathmesh/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0921-spiral-matrix-iii](https://github.com/MPrathmesh/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/MPrathmesh/LeetCode/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MPrathmesh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/MPrathmesh/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/MPrathmesh/LeetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
