@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/MPrathmesh/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/MPrathmesh/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/MPrathmesh/LeetCode/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MPrathmesh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MPrathmesh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MPrathmesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPrathmesh/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MPrathmesh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/MPrathmesh/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MPrathmesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MPrathmesh/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/MPrathmesh/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/MPrathmesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
