@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MPrathmesh/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/MPrathmesh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MPrathmesh/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/MPrathmesh/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MPrathmesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/MPrathmesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MPrathmesh/LeetCode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/MPrathmesh/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MPrathmesh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MPrathmesh/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/MPrathmesh/LeetCode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/MPrathmesh/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MPrathmesh/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/MPrathmesh/LeetCode/tree/master/0948-sort-an-array) |
