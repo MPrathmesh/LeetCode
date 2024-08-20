@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MPrathmesh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPrathmesh/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPrathmesh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MPrathmesh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MPrathmesh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/MPrathmesh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MPrathmesh/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/MPrathmesh/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/MPrathmesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
 ## Trie
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MPrathmesh/LeetCode/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
