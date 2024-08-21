@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MPrathmesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/MPrathmesh/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/MPrathmesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0664-strange-printer](https://github.com/MPrathmesh/LeetCode/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/MPrathmesh/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MPrathmesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MPrathmesh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/MPrathmesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/MPrathmesh/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MPrathmesh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0664-strange-printer](https://github.com/MPrathmesh/LeetCode/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/MPrathmesh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
