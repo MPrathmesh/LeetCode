@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/MPrathmesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MPrathmesh/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/MPrathmesh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MPrathmesh/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPrathmesh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/MPrathmesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/MPrathmesh/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/MPrathmesh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MPrathmesh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/MPrathmesh/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/MPrathmesh/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/MPrathmesh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Union Find
 |  |
 | ------- |
