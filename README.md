@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/MPrathmesh/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/MPrathmesh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/MPrathmesh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/MPrathmesh/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2032-largest-odd-number-in-string](https://github.com/MPrathmesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/MPrathmesh/LeetCode/tree/master/2050-count-good-numbers) |
 ## Trie
