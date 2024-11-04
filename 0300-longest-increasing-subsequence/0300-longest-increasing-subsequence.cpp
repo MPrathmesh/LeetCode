@@ -79,6 +79,26 @@ public:
         return nextRow[0];
     }
 
+    //BS - Binaray Search
+    int solveUsingBS(vector<int>& num) {
+        vector<int> ans;
+
+        //initial state
+        ans.push_back(num[0]);
+        for(int i = 1; i < num.size(); i++) {
+            if(num[i] > ans.back()) {
+                ans.push_back(num[i]);
+            }
+            else {
+                //just bada number exist karta hai
+                int index = lower_bound(ans. begin(), ans.end(), num[i]) - ans.begin();
+                //replace
+                ans[index] = num[i];
+            }
+        }
+        return ans.size();
+    }
+
     int lengthOfLIS(vector<int>& nums) {
         int curr = 0;
         int prev = -1;
@@ -93,7 +113,10 @@ public:
         // int ans = solveUsingTabulation(nums);
         // return ans;
 
-        int ans = solveUsingTabulationSO(nums);
+        // int ans = solveUsingTabulationSO(nums);
+        // return ans;
+
+        int ans = solveUsingBS(nums);
         return ans;
     }
 };
